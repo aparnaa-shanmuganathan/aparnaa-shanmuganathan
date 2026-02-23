@@ -49,9 +49,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/aparnaa-shanmuganathan/aparnaa-shanmuganathan/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=140&section=footer"/>
