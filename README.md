@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Aparnaa%20Shanmuganathan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<h2 align="center">AI Engineer • iOS Developer • Vision Builder</h2>
+<h2 align="center">AI Engineer  • Computer Vision </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=AI+%26+Computer+Vision+Explorer;Swift+iOS+App+Developer;Full+Stack+Learner;Building+Future-Ready+Systems;Consistency+Over+Motivation" />
